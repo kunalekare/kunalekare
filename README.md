@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking for help with **SIH hackathon**
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/Lenovo/Desktop/full_stack_development/Portfolio%20using%20HTML%20&%20CSS/vcard-personal-portfolio-master/index.html](file:///C:/Users/Lenovo/Desktop/full_stack_development/Portfolio%20using%20HTML%20&%20CSS/vcard-personal-portfolio-master/index.html)
-
 - 💬 Ask me about **Dynamic and motivated Web Developer seeking an opportunity to leverage my skills and knowledge in web development to contribute effectively to a progressive team. Eager to apply my educational background and passion for coding to develop innovative solutions and enhance user experiences. Committed to continuous learning and growth in the field of software development.**
 
 - 📫 How to reach me **kunalekare02@gmail,https://www.instagram.com/learn_with_kunal1/**
