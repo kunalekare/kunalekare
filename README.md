@@ -5,18 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalekare" alt="kunalekare" /></a> </p>
 
-- 🔭 I’m currently working on **Lost and found system**
+- 🔭 I’m currently working on **Specially abled student website**
 
-- 🌱 I’m currently learning **Full stack development ,DSA(in java),spoken english course,Excel ,**
-
-- 👯 I’m looking to collaborate on **GDSC hackathon**
-
-- 🤝 I’m looking for help with **SIH hackathon**
+- 🌱 I’m currently learning **Full stack development ,DSA(in java)**
 
 - 💬 Ask me about **Dynamic and motivated Web Developer seeking an opportunity to leverage my skills and knowledge in web development to contribute effectively to a progressive team. Eager to apply my educational background and passion for coding to develop innovative solutions and enhance user experiences. Committed to continuous learning and growth in the field of software development.**
 
 - 📫 How to reach me **kunalekare02@gmail,https://www.instagram.com/learn_with_kunal1/**
-
+-  This is my Portfolio :**[Click to Preview](https://kunalekareportfolio.vercel.app/)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-ekare-78080527a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-ekare-78080527a/" height="30" width="40" /></a>
