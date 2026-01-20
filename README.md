@@ -12,7 +12,7 @@
 - 💬 Ask me about **Dynamic and motivated Web Developer seeking an opportunity to leverage my skills and knowledge in web development to contribute effectively to a progressive team. Eager to apply my educational background and passion for coding to develop innovative solutions and enhance user experiences. Committed to continuous learning and growth in the field of software development.**
 
 - 📫 How to reach me **kunalekare02@gmail,https://www.instagram.com/learn_with_kunal1/**
--  This is my Portfolio :**[Click to Preview](https://kunalekareportfolio.vercel.app/)**
+-  This is my Portfolio :**[Click to Preview]([(https://www.kunalekare.online)])**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-ekare-78080527a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-ekare-78080527a/" height="30" width="40" /></a>
